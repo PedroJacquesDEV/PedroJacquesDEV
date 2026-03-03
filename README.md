@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Jacques
 
-🚀 **Software Engineering Student | Aspiring Cloud Security Architect** 🇧🇷 **Brazil** ✈️ **Ireland** (Cork - 2026)
+🚀 **Software Engineering Student | Aspiring Cloud Security Architect** 🇧🇷 **Brazil** ✈️ 🇮🇪 **Ireland** (Cork - 2026)
 
 I am currently on a **52-day intensive strategic sprint** to build a world-class foundation in **Cloud Infrastructure and Cybersecurity**. My focus is on creating resilient architectures, mastering security automation (DevSecOps), and deep technical fundamentals.
 
