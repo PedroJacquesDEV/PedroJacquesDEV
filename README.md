@@ -46,7 +46,7 @@ I am documenting my daily technical evolution as I transition from software deve
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://github.com/PedroJacquesDEV">
-    <img src="https://img.shields.io/badge/GitHub-pedro--jacquesDEV-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-PedroJacquesDEV-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/pedro-jacquesdev">
     <img src="https://img.shields.io/badge/LinkedIn-pedro--jacquesDEV-0A66C2?style=for-the-badge&logo=linkedin" />
